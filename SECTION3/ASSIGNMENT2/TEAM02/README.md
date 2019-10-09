@@ -7,6 +7,7 @@ Put your name in the Team Section and comment
 ## Team
 Fatima Kabbaj
 <br/>Jackson Torres
+Shuangning Yang
 
 ## Comments
 yay found it
